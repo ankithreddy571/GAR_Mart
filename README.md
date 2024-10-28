@@ -1,8 +1,18 @@
-# React + Vite
+# GAR_Mart
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+GAR_Mart is a React-based e-commerce platform where users can browse and purchase products across various categories, such as mobiles, appliances, and more.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Product Categories**: Multiple product pages for categories like Mobiles, ACs, Books, Computers, and more.
+- **Product Details**: Detailed view of each product with an option to add items to the cart.
+- **Shopping Cart**: Users can add items to the cart and view their selected products.
+- **Responsive Design**: Layout adapts to different screen sizes for optimal user experience.
+
+## Tech Stack
+
+- **Frontend**: React, CSS, React Router
+- **Context Management**: Context API for managing the shopping cart state
+- **Styling**: Custom CSS
+
+Let me know if you’d like to include any additional details!
