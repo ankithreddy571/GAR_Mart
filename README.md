@@ -15,4 +15,9 @@ GAR_Mart is a React-based e-commerce platform where users can browse and purchas
 - **Context Management**: Context API for managing the shopping cart state
 - **Styling**: Custom CSS
 
+## About the Author
+
+This project was created by [Ankith Reddy Godala](https://github.com/ankithreddy571). I'm a Software developer passionate about building user-friendly e-commerce applications using React. For questions or collaboration, feel free to reach out at [ankithreddy571@gmail.com](mailto:ankithreddy571@gmail.com).
+
+
 Let me know if you’d like to include any additional details!
