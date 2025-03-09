@@ -42,10 +42,6 @@ const ACSingle = () => {
       </div>
     </div>
     </>
-
-
-
-
   )
 }
 
