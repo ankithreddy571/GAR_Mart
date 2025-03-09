@@ -12,7 +12,9 @@ const ACSingle = () => {
 
     const product = acData.find((item)=>item.id===id);
     if (!product) {
-        return <div>Product found</div>;
+
+        return <div>Tham mullu support cheyandi</div>;
+
     }
 
 
@@ -42,10 +44,6 @@ const ACSingle = () => {
       </div>
     </div>
     </>
-
-
-
-
   )
 }
 
