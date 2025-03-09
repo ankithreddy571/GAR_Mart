@@ -1,4 +1,4 @@
-
+z
  { acData } from '../stores/data/ac'
 import { useParams } from 'react-router-dom'
 import Navbar from '../stores/components/Navbar'
